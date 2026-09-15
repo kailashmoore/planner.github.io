@@ -1,0 +1,21 @@
+# Privacy Policy for Planner: Get It Done
+
+Kailash Moore ("we," "our," or "us") operates the Planner: Get It Done mobile application. We are committed to protecting your privacy.
+
+## 1. Information We Access and How We Use It:
+
+Our app requires specific permissions to interact with your calendar data:
+* **Google Calendar (Read-Only):** We request read-only access to your Google Calendar to display your existing events within the app. This data is processed entirely on your device. We do not store, collect, or transmit your Google Calendar data to external servers.
+* **iCal / Local Calendar Additions:** We request permission to read to your device's local calendar (iCal) solely to show events in the app at your request.
+
+## 2. Third-Party Services
+Our app connects directly to Google Services to facilitate the calendar sync. You can review their privacy practices here:
+* [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US)
+
+* ## Google OAuth 2.0 User Data Policy
+Planner: Get It Done's use and transfer of information received from Google APIs to any other app will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
+
+* **How we access your data:** The app requests OAuth 2.0 access tokens via secure Google protocols to read your calendar events.
+* **How we use your data:** This data is strictly used to display your timeline inside the app interface. 
+* **No Transfers or Sales:** We do not transfer, sell, or use your Google user data for serving advertisements, data brokering, or any other commercial purposes.
+* **Human Review:** No human beings at [Your Company Name] will ever read your Google Calendar data.
